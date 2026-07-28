@@ -1,7 +1,7 @@
 class Solution1678 {
     public String interpret(String command) {
         StringBuilder ans =  new StringBuilder();
-        for(int i = 0 ;  i < command.length(); i++){
+        for(int i = 0;  i < command.length(); i++){
             if(command.charAt(i)=='G'){
                 ans.append('G');
             }
