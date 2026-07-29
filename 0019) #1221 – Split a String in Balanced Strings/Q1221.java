@@ -1,4 +1,4 @@
-class Solution {
+class Solution1221 {
     public int balancedStringSplit(String s) {
         int  count=0;
         int Lcount=0;
