@@ -1,4 +1,4 @@
-class Solution {
+class Solution804 {
     public int uniqueMorseRepresentations(String[] words) {
         String[] morse = {
         ".-","-...","-.-.","-..",".","..-.","--.","....","..",".---",
