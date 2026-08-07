@@ -9,7 +9,7 @@ class Solution804 {
         };
         HashSet<String> set = new HashSet<>();
         for(int i = 0; i<words.length;i++){
-            StringBuilder sb = new StringBuilder();
+            StringBuilder sb = new StringBuilder(); //build a new string to add words 
             String word = words[i];
             for(int j = 0; j<word.length();j++){
                 char ch = word.charAt(j);
