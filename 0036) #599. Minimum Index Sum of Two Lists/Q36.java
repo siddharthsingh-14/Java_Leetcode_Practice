@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 class Solution599 {
     public String[] findRestaurant(String[] list1, String[] list2) {
         int sum = Integer.MAX_VALUE;
