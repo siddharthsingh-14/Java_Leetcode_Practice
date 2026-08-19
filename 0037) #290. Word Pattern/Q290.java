@@ -19,6 +19,7 @@ class Solution290 {
                 return  false;
             }
             map.put(ch,str);
+            
         }
         return true;
     }
