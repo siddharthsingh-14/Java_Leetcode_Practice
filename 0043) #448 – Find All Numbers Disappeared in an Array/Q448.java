@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 
-class Solution {
+class Solution448 {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         HashSet<Integer> map = new HashSet<>();
         ArrayList<Integer> list = new ArrayList<>();

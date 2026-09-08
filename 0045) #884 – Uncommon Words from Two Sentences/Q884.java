@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.HashMap;
 
-class Solution {
+class Solution884 {
     public String[] uncommonFromSentences(String s1, String s2) {
         String[] word1 = s1.split(" ");
         String[] word2 = s2.split(" ");

@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-class Solution {
+class Solution451 {
     public String frequencySort(String s) {
         HashMap<Character,Integer> map = new HashMap<>();
         for(char chr : s.toCharArray()){
